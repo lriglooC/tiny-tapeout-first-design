@@ -15,6 +15,12 @@ Adds the bits from the nth and n-1th input bits to count in binary.
 
 Put input voltage on the inputs (0V - 5V) and test the outcome on the corresponding output.
 
+| input n | input n-1 | output | carry |
+| 1       | 1         | 0      | 1     |
+| 1       | 0         | 1      | 0     |
+| 0       | 1         | 1      | 0     |
+| 0       | 0         | 0      | 0     |
+
 ## External hardware
 
 It is recommended to use LEDs or other ways to test the output pins.
