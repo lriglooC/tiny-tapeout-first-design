@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Adds the bits from the nth and n-1th input bits to count in binary. 
 
 ## How to test
 
-Explain how to use your project
+Put input voltage on the inputs (0V - 5V) and test the outcome on the corresponding output.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+It is recommended to use LEDs or other ways to test the output pins.
